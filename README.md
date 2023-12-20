@@ -1,8 +1,12 @@
-# React + Vite
+# Mercor Trial
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The user interface for the Jobs Chat bot.
 
-Currently, two official plugins are available:
+### How to setup
+- Clone this repository
+- `npm i` to fetch all packages
+- `npm run dev` to start a dev server
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> You will need the API endpoint in which the backend logic is deployed or you can setup the backend API in your local environment
+
+
